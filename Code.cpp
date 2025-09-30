@@ -1,5 +1,26 @@
-// Minimal SFML example
 #include <SFML/Graphics.hpp>
+#include <queue>
+
+class Character {
+public:
+
+	int Base_health;
+	int Base_Speed;
+	int Base_defense;
+	int Base_damage;
+
+};
+
+class Enemy: public Character {
+public:
+
+	int 
+};
+
+class player: public Character {
+public:
+
+};
 
 int main() {
 	sf::RenderWindow window(sf::VideoMode(800, 600), "SFML Window");
