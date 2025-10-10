@@ -1,0 +1,14 @@
+Enemy: Frog
+Health: 10
+Speed: 3
+Defense: 1
+Damage: 1
+ability:
+
+Enemy: Spider
+Health: 15
+Speed: 4
+Defense: 2
+Damage: 2
+ability: slow
+
